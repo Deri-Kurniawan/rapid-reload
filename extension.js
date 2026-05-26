@@ -55,7 +55,7 @@ function activate(context) {
 		});
 	});
 
-	const reloadStatusBarItem = vscode.window.createStatusBarItem(vscode.StatusBarAlignment.Right, 100);
+	const reloadStatusBarItem = vscode.window.createStatusBarItem(vscode.StatusBarAlignment.Right, -100);
 
 	reloadStatusBarItem.text = '$(sync) Reload';
 	reloadStatusBarItem.command = 'bolt-reload.reloadWindow';

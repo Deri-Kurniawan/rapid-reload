@@ -2,8 +2,14 @@
 
 All notable changes to the "bolt-reload" extension will be documented in this file.
 
-<!-- Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file. -->
+## [0.0.2] - 2026-06-01
 
-## Release 0.0.1 - 2026-05-26
+### Fixed
+- Extension name in the manifest file for consistency.
+- Status bar button priority to ensure it always appears on the rightmost side.
 
-- Initial release of the "bolt-reload" extension. This extension provides a simple way to reload editor windows faster with optional reload confirmation.
+## [0.0.1] - 2026-05-26
+
+### Added
+- Initial release with simple window reload command.
+- Optional reload confirmation dialog with "Don't ask again" support.
