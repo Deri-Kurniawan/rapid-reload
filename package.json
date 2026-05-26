@@ -8,6 +8,9 @@
     "email": "hi@derikn.com",
     "url": "https://www.derikn.com"
   },
+  "repository": {
+    "url": "https://github.com/Deri-Kurniawan/reload-vscode-extension"
+  },
   "engines": {
     "vscode": "^1.120.0"
   },
