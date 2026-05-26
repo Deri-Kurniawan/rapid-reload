@@ -30,7 +30,7 @@
   "main": "./extension.js",
   "contributes": {
     "configuration": {
-      "title": "Reload",
+      "title": "Bolt Reload",
       "type": "object",
       "properties": {
         "bolt-reload.confirmReload": {
