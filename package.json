@@ -3,13 +3,19 @@
   "displayName": "Reload",
   "description": "A simple extension to reload the current window with an optional confirmation dialog.",
   "version": "0.0.1",
+  "publisher": "deri",
   "author": {
     "name": "Deri Kurniawan",
     "email": "hi@derikn.com",
     "url": "https://www.derikn.com"
   },
   "repository": {
-    "url": "https://github.com/Deri-Kurniawan/reload-vscode-extension"
+    "type": "git",
+    "url": "https://github.com/Deri-Kurniawan/reload-vscode-extension.git"
+  },
+  "homepage": "https://github.com/Deri-Kurniawan/reload-vscode-extension",
+  "bugs": {
+    "url": "https://github.com/Deri-Kurniawan/reload-vscode-extension/issues"
   },
   "engines": {
     "vscode": "^1.120.0"
